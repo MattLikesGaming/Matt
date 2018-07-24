@@ -3,8 +3,8 @@
 	"servers": [
 		"285488000845217794", "403383749745573889"
 	],
-	"roleName": "Bots",
+	"roleName": "Bots", "Owl",
 	"colors": 12,
-	"speed": 100,
-	"logging": true
+	"speed": 1000,
+	"logging": false
 }
