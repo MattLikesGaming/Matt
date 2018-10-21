@@ -1,0 +1,14 @@
+{
+  "name": "rainbow",
+  "version": "1.0.0",
+  "description": "A bot just for a few certain servers.",
+  "main": "RainbowRole.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MattLikesGaming",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
